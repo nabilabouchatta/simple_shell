@@ -3,7 +3,7 @@
 /**
  * main - the main function
  * @argc:  the number of command-line arguments
- * @av: An array of strings containing the command-line arguments
+ * @argv: An array of strings containing the command-line arguments
  *
  * Return: Always returns 0
  */
